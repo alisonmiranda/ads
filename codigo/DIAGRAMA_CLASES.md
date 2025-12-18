@@ -509,7 +509,7 @@ Ventajas:
 ├─────────────────────────────────────────────────┤
 │ Atributos:                                       │
 │  - static instance: NotificationSystem           │
-│  - notifications: Notification[]                 │
+│  - notifications: Array<Notification>            │
 │    └─> Cola de notificaciones                   │
 ├─────────────────────────────────────────────────┤
 │ Métodos:                                         │
@@ -745,7 +745,7 @@ Flujo de Importación:
 │         data: ComprobanteModel                   │
 │        }                                         │
 │                                                  │
-│  + subirDocumento(id: Number, file: File): Obj   │
+│  + subirDocumento(id: Number, file: File): Object│
 │    └─> Adjunta documento al comprobante         │
 │    └─> Valida formato (PDF, JPG, PNG)           │
 │    └─> Valida tamaño (máx 5MB)                  │
@@ -763,7 +763,7 @@ Flujo de Importación:
 │  + uploadFileSimulation(file: File): Promise<Str>│
 │    └─> Simula subida y retorna URL              │
 │                                                  │
-│  + validarContraDatosOficiales(id: Number): Obj  │
+│  + validarContraDatosOficiales(id: Number): Object│
 │    └─> Valida comprobante contra datos oficiales│
 │    └─> Busca staff por cédula                   │
 │    └─> Valida nombre y monto asignado           │
