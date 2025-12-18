@@ -70,6 +70,23 @@ Contenido:
 
 ---
 
+### 📐 [DIAGRAMA_CLASES.md](DIAGRAMA_CLASES.md) - Diagrama de Clases Completo
+**~25 páginas | Tiempo de lectura: 30 minutos**
+
+Contenido:
+- ✅ Diagrama UML completo del sistema
+- ✅ Diagramas detallados por componente
+- ✅ Todas las clases con atributos y métodos
+- ✅ Relaciones entre clases (herencia, composición, dependencias)
+- ✅ Diagramas de patrones de diseño
+- ✅ Matriz de dependencias
+- ✅ Flujo de datos completo
+- ✅ Notación UML estándar
+
+**👉 Lee esto si necesitas el diagrama de clases UML del sistema**
+
+---
+
 ### 🧪 [GUIA_PRUEBAS.md](GUIA_PRUEBAS.md) - Casos de Prueba
 **~10 páginas | Tiempo de lectura: 15 minutos**
 
@@ -139,8 +156,9 @@ Contenido:
 
 ### 👨‍💻 "Quiero entender el código"
 1. [README.md](README.md) - Sección "Arquitectura"
-2. [ESTRUCTURA_PROYECTO.md](ESTRUCTURA_PROYECTO.md) - Organización de archivos
-3. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Patrones implementados
+2. [DIAGRAMA_CLASES.md](DIAGRAMA_CLASES.md) - Diagrama UML completo
+3. [ESTRUCTURA_PROYECTO.md](ESTRUCTURA_PROYECTO.md) - Organización de archivos
+4. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Patrones implementados
 
 ### 🧪 "Quiero probar el sistema"
 1. [QUICK_START.md](QUICK_START.md) - Credenciales de acceso
@@ -149,13 +167,15 @@ Contenido:
 
 ### 📊 "Necesito presentar el proyecto"
 1. [RESUMEN_EJECUTIVO.md](RESUMEN_EJECUTIVO.md) - Visión general
-2. [README.md](README.md) - Documentación completa
-3. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Patrones implementados
+2. [DIAGRAMA_CLASES.md](DIAGRAMA_CLASES.md) - Diagrama UML
+3. [README.md](README.md) - Documentación completa
+4. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Patrones implementados
 
 ### 🔧 "Quiero modificar o extender el sistema"
-1. [ESTRUCTURA_PROYECTO.md](ESTRUCTURA_PROYECTO.md) - Organización
-2. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Arquitectura
-3. [README.md](README.md) - Sección "Arquitectura del Sistema"
+1. [DIAGRAMA_CLASES.md](DIAGRAMA_CLASES.md) - Diagrama de clases
+2. [ESTRUCTURA_PROYECTO.md](ESTRUCTURA_PROYECTO.md) - Organización
+3. [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Arquitectura
+4. [README.md](README.md) - Sección "Arquitectura del Sistema"
 
 ---
 
@@ -188,13 +208,14 @@ Contenido:
 📚 Documentación:
    ├─ README.md                 (~3,000 palabras)
    ├─ QUICK_START.md            (~600 palabras)
+   ├─ DIAGRAMA_CLASES.md        (~5,500 palabras)
    ├─ PATRONES_DISEÑO.md        (~2,500 palabras)
    ├─ GUIA_PRUEBAS.md           (~2,000 palabras)
    ├─ FORMATO_EXCEL.md          (~500 palabras)
    ├─ RESUMEN_EJECUTIVO.md      (~1,500 palabras)
    └─ ESTRUCTURA_PROYECTO.md    (~1,500 palabras)
    ────────────────────────────────────────────
-   Total: ~11,600 palabras (~50 páginas)
+   Total: ~17,100 palabras (~75 páginas)
 
 💻 Código:
    ├─ JavaScript/JSX:           ~2,500 líneas
@@ -209,6 +230,7 @@ Contenido:
 ### Documentación
 - [README.md](README.md) - Documentación general completa
 - [QUICK_START.md](QUICK_START.md) - Inicio en 3 pasos
+- [DIAGRAMA_CLASES.md](DIAGRAMA_CLASES.md) - Diagrama de clases UML
 - [PATRONES_DISEÑO.md](PATRONES_DISEÑO.md) - Explicación de patrones
 - [GUIA_PRUEBAS.md](GUIA_PRUEBAS.md) - Casos de prueba detallados
 - [FORMATO_EXCEL.md](FORMATO_EXCEL.md) - Estructura de datos Excel
